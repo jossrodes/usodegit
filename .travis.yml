@@ -1,4 +1,4 @@
+install: true
 before_script:
-  - easy_install distribute
   - pip install -r requirements.txt
 language: python
